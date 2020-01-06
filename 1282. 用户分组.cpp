@@ -12,6 +12,7 @@
 解释： 
 其他可能的解决方案有 [[2,1,6],[5],[0,4,3]] 和 [[5],[0,6,2],[4,3,1]]。
 */
+
 class Solution {
 public:
     vector<vector<int>> groupThePeople(vector<int>& groupSizes) {
