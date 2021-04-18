@@ -1,7 +1,7 @@
 /*** 
  * @Author: czqmike
  * @Date: 2021-04-11 16:37:27
- * @LastEditTime: 2021-04-11 18:07:38
+ * @LastEditTime: 2021-04-12 10:13:11
  * @LastEditors: czqmike
  * @Description: 
     小包最近迷上了一款叫做雀魂的麻将游戏，但是这个游戏规则太复杂，小包玩了几个月了还是输多赢少。
@@ -63,6 +63,7 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
+#include <ctime>
 using namespace std;
 
 bool correct(vector<int>& v) {
